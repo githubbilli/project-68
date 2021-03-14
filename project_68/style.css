@@ -1,0 +1,12 @@
+body{
+	background:linear-gradient(#03adfc 1%,#6703fc 100%);
+	text-align: center;
+}
+marquee{
+	background-color: firebrick;
+}
+#ul{
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
